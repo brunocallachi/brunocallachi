@@ -4,9 +4,9 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
 
 ⚡ Tecnologias
 
-Frontend: JavaScript HTML5 CSS3 Sass Bootstrap TypeScript Angular
+Frontend: JavaScript, HTML5, CSS3, Sass, Bootstrap, TypeScript e Angular
 
-Tools: Git GitHub BitBucket JIRA JFrog
+Tools: Git, GitHub e JIRA 
 
 IDE: VSCode
 
